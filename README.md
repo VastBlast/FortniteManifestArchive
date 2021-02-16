@@ -117,6 +117,7 @@ If you have a manifest ID (even if you do not have the corresponding file) that 
 |++Fortnite+Release-15.30-CL-15341163-Windows|x1dAKmBiMCwiWxbrt0yOzckFfitG8g|[Download](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Windows/x1dAKmBiMCwiWxbrt0yOzckFfitG8g.manifest)|
 |++Fortnite+Release-15.30-CL-15341163-Windows|x1dAKmBiMCwiWxbrt0yOzckFfitG8g|[Download](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Windows/x1dAKmBiMCwiWxbrt0yOzckFfitG8g.manifest)|
 |++Fortnite+Release-15.40-CL-15385160-Windows|M-uL6hJU0HVPJLI2lUiqtQQsA7VYkg|[Download](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Windows/M-uL6hJU0HVPJLI2lUiqtQQsA7VYkg.manifest)|
+|++Fortnite+Release-Cert-CL-3847564-Windows|ZrI2-mGi5f095bc735dd412085dd6e71f5f1072f|[Download](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Windows/ZrI2-mGi5f095bc735dd412085dd6e71f5f1072f.manifest)|
 
 # Android Manifests
 |Version|Manifest ID|Download|
