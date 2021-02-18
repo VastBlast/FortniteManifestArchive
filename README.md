@@ -115,13 +115,14 @@ If you have a manifest ID (even if you do not have the corresponding file) that 
 |++Fortnite+Release-15.30-CL-15233634-Windows|4f_fOfqIHIMBff3XsUC2wdIZNvfgQg|[Download](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Windows/4f_fOfqIHIMBff3XsUC2wdIZNvfgQg.manifest)|
 |++Fortnite+Release-15.30-CL-15316852-Windows|ejVcIMPTubEZ8oT6uU6eVNk43YKPvw|[Download](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Windows/ejVcIMPTubEZ8oT6uU6eVNk43YKPvw.manifest)|
 |++Fortnite+Release-15.30-CL-15341163-Windows|x1dAKmBiMCwiWxbrt0yOzckFfitG8g|[Download](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Windows/x1dAKmBiMCwiWxbrt0yOzckFfitG8g.manifest)|
-|++Fortnite+Release-15.30-CL-15341163-Windows|x1dAKmBiMCwiWxbrt0yOzckFfitG8g|[Download](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Windows/x1dAKmBiMCwiWxbrt0yOzckFfitG8g.manifest)|
 |++Fortnite+Release-15.40-CL-15385160-Windows|M-uL6hJU0HVPJLI2lUiqtQQsA7VYkg|[Download](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Windows/M-uL6hJU0HVPJLI2lUiqtQQsA7VYkg.manifest)|
+|++Fortnite+Release-15.40-CL-15419568-Windows|u4MEHBVOxXYICGW680mzbo3QSEu58Q|[Download](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Windows/u4MEHBVOxXYICGW680mzbo3QSEu58Q.manifest)|
 |++Fortnite+Release-Cert-CL-3847564-Windows|ZrI2-mGi5f095bc735dd412085dd6e71f5f1072f|[Download](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Windows/ZrI2-mGi5f095bc735dd412085dd6e71f5f1072f.manifest)|
 
 # Android Manifests
 |Version|Manifest ID|Download|
 |--|--|--|
+|++Fortnite+Release-10.40-CL-8936006-Shipping-Android|Wk2JNYbyEYzjgRo8EUm95jnwsLgKOA|[Download](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Android/Wk2JNYbyEYzjgRo8EUm95jnwsLgKOA.manifest)|
 |++Fortnite+Release-13.20-CL-13777676-Shipping-Android|NZH1KVkueuRbHJyzVUqj2jxOjudsBA|[Download](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Android/NZH1KVkueuRbHJyzVUqj2jxOjudsBA.manifest)|
 |++Fortnite+Release-13.30-CL-13884634-Shipping-Android|J2K74HY3-nXHNWQHek20EBBNQWXGdw|[Download](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Android/J2K74HY3-nXHNWQHek20EBBNQWXGdw.manifest)|
 |++Fortnite+Release-13.40-CL-14009477-Shipping-Android|wHKFZIVWMtpFF6k2W0mY6PZRPel4bA|[Download](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Android/wHKFZIVWMtpFF6k2W0mY6PZRPel4bA.manifest)|
