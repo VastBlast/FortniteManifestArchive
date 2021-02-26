@@ -118,6 +118,7 @@ If you have a manifest ID (even if you do not have the corresponding file) that 
 |++Fortnite+Release-15.40-CL-15385160-Windows|M-uL6hJU0HVPJLI2lUiqtQQsA7VYkg|[Download](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Windows/M-uL6hJU0HVPJLI2lUiqtQQsA7VYkg.manifest)|
 |++Fortnite+Release-15.40-CL-15419568-Windows|u4MEHBVOxXYICGW680mzbo3QSEu58Q|[Download](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Windows/u4MEHBVOxXYICGW680mzbo3QSEu58Q.manifest)|
 |++Fortnite+Release-15.40-CL-15424013-Windows|tXOCpnf2iyNxmTGA0UqZ7NpEB08xmQ|[Download](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Windows/tXOCpnf2iyNxmTGA0UqZ7NpEB08xmQ.manifest)|
+|++Fortnite+Release-15.40-CL-15496915-Windows|NgICIOEJN6SUFYK6X0atmFurBtw_kQ|[Download](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Windows/NgICIOEJN6SUFYK6X0atmFurBtw_kQ.manifest)|
 |++Fortnite+Release-Cert-CL-3847564-Windows|ZrI2-mGi5f095bc735dd412085dd6e71f5f1072f|[Download](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Windows/ZrI2-mGi5f095bc735dd412085dd6e71f5f1072f.manifest)|
 
 # Android Manifests
@@ -149,3 +150,4 @@ If you have a manifest ID (even if you do not have the corresponding file) that 
 |++Fortnite+Release-15.30-CL-15306522-Shipping-Android|eWmiWtio3xCFWt9zqUaJenv5x67pjw|[Download](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Android/eWmiWtio3xCFWt9zqUaJenv5x67pjw.manifest)|
 |++Fortnite+Release-15.40-CL-15385160-Shipping-Android|9uNNmMSrGQxhg4VJ6kiWB1MSR6yKbA|[Download](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Android/9uNNmMSrGQxhg4VJ6kiWB1MSR6yKbA.manifest)|
 |++Fortnite+Release-15.40-CL-15424013-Shipping-Android|v0liR6EjEVUPkXq1W0-Y_MC58M-QVw|[Download](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Android/v0liR6EjEVUPkXq1W0-Y_MC58M-QVw.manifest)|
+|++Fortnite+Release-15.40-CL-15466285-Shipping-Android|dDzIwrGEpWqBRpN6TEWfYuw1OsdUAw|[Download](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Android/dDzIwrGEpWqBRpN6TEWfYuw1OsdUAw.manifest)|
