@@ -123,6 +123,7 @@ If you have a manifest ID (even if you do not have the corresponding file) that 
 |++Fortnite+Release-15.50-CL-15570449-Windows|N4qaUfEGF1WRgxFYSEK0dCyF-9DLfg|[Download](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Windows/N4qaUfEGF1WRgxFYSEK0dCyF-9DLfg.manifest)|
 |++Fortnite+Release-16.00-CL-15685441-Windows|0TUjehLQVK8zW6tqWkquGEm4QAE0xg|[Download](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Windows/0TUjehLQVK8zW6tqWkquGEm4QAE0xg.manifest)|
 |++Fortnite+Release-16.00-CL-15713390-Windows|2N-wx7hYkt8Ni7lBDkausAkNOmtdoA|[Download](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Windows/2N-wx7hYkt8Ni7lBDkausAkNOmtdoA.manifest)|
+|++Fortnite+Release-16.00-CL-15727376-Windows|sjtPnOPJGVjpCn_MeU62f4dUQqSe4g|[Download](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Windows/sjtPnOPJGVjpCn_MeU62f4dUQqSe4g.manifest)|
 |++Fortnite+Release-Cert-CL-3847564-Windows|ZrI2-mGi5f095bc735dd412085dd6e71f5f1072f|[Download](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Windows/ZrI2-mGi5f095bc735dd412085dd6e71f5f1072f.manifest)|
 
 # Android Manifests
@@ -160,3 +161,4 @@ If you have a manifest ID (even if you do not have the corresponding file) that 
 |++Fortnite+Release-15.40-CL-15466285-Shipping-Android|dDzIwrGEpWqBRpN6TEWfYuw1OsdUAw|[Download](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Android/dDzIwrGEpWqBRpN6TEWfYuw1OsdUAw.manifest)|
 |++Fortnite+Release-15.50-CL-15526472-Shipping-Android|sWxpeLeG3UIY5EgHsUek7ejjcOnzRw|[Download](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Android/sWxpeLeG3UIY5EgHsUek7ejjcOnzRw.manifest)|
 |++Fortnite+Release-16.00-CL-15685441-Shipping-Android|M58PhA6Zn0j6ImGB2ku_gTNbG8pNbg|[Download](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Android/M58PhA6Zn0j6ImGB2ku_gTNbG8pNbg.manifest)|
+|++Fortnite+Release-16.00-CL-15739711-Shipping-Android|e16jC_eS3La2sZBawkKQoeTHMiN_hg|[Download](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Android/e16jC_eS3La2sZBawkKQoeTHMiN_hg.manifest)|
