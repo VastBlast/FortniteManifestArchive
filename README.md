@@ -133,6 +133,11 @@ If you have a manifest ID (even if you do not have the corresponding file) that 
 |++Fortnite+Release-16.20-CL-15987165-Windows|p60cPJmW8tjdLQbgWkqIlst_ZBXYkA|[Download](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Windows/p60cPJmW8tjdLQbgWkqIlst_ZBXYkA.manifest)|
 |++Fortnite+Release-Cert-CL-3847564-Windows|ZrI2-mGi5f095bc735dd412085dd6e71f5f1072f|[Download](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Windows/ZrI2-mGi5f095bc735dd412085dd6e71f5f1072f.manifest)|
 
+# Mac Manifests
+|Version|Manifest ID|Download|
+|--|--|--|
+|++Fortnite+Release-13.40-CL-14190742-Mac|fasLpViqfDZX_Ej2QEeeHyHYCqgKSw|[Download](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Mac/fasLpViqfDZX_Ej2QEeeHyHYCqgKSw.manifest)|
+
 # Android Manifests
 |Version|Manifest ID|Download|
 |--|--|--|
