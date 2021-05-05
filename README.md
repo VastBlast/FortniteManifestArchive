@@ -145,6 +145,7 @@ If you have a manifest ID (even if you do not have the corresponding file) that 
 # Android Manifests
 |Version|Manifest ID|Download|
 |--|--|--|
+|++Fortnite+Release-5.21-CL-4284747-Android|n0IZV_FFnqvV7rgjEEKlBSeB716y_w|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Android/n0IZV_FFnqvV7rgjEEKlBSeB716y_w.manifest)<br>[APK](https://download.epicgames.com/Builds/Fortnite/Apk/n0IZV_FFnqvV7rgjEEKlBSeB716y_w.apk)|
 |++Fortnite+Release-10.40-CL-8936006-Shipping-Android|Wk2JNYbyEYzjgRo8EUm95jnwsLgKOA|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Android/Wk2JNYbyEYzjgRo8EUm95jnwsLgKOA.manifest)<br>[APK](https://download.epicgames.com/Builds/Fortnite/Apk/Wk2JNYbyEYzjgRo8EUm95jnwsLgKOA.apk)|
 |++Fortnite+Release-12.50-CL-13070927-Shipping-Android|fpbBbXcFKoMCZ54Wx0ORNGh9iI9v0A|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Android/fpbBbXcFKoMCZ54Wx0ORNGh9iI9v0A.manifest)<br>[APK](https://download.epicgames.com/Builds/Fortnite/Apk/fpbBbXcFKoMCZ54Wx0ORNGh9iI9v0A.apk)|
 |++Fortnite+Release-12.50-CL-13179981-Shipping-Android|mRwAbNVcrsAcnfc7HECrnYE8FNcIOw|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Android/mRwAbNVcrsAcnfc7HECrnYE8FNcIOw.manifest)<br>[APK](https://download.epicgames.com/Builds/Fortnite/Apk/mRwAbNVcrsAcnfc7HECrnYE8FNcIOw.apk)|
