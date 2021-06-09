@@ -139,6 +139,7 @@ If you have a manifest ID (even if you do not have the corresponding file) that 
 |++Fortnite+Release-16.50-CL-16432754-Windows|myacVPh3VDv1zXI4Z0OpAVE76zqoiQ|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Windows/myacVPh3VDv1zXI4Z0OpAVE76zqoiQ.manifest)|
 |++Fortnite+Release-16.50-CL-16469788-Windows|JoLlB3IhtR6FpOfjYEuCkElNi5yxOA|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Windows/JoLlB3IhtR6FpOfjYEuCkElNi5yxOA.manifest)|
 |++Fortnite+Release-17.00-CL-16555138-Windows|r01_i6Vdba86jyg6K0mmOLfNO_rmAw|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Windows/r01_i6Vdba86jyg6K0mmOLfNO_rmAw.manifest)|
+|++Fortnite+Release-17.00-CL-16593740-Windows|nowzVL6UKD9nC3vhPEuIX1kZWIez0Q|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Windows/nowzVL6UKD9nC3vhPEuIX1kZWIez0Q.manifest)|
 |++Fortnite+Release-Cert-CL-3847564-Windows|ZrI2-mGi5f095bc735dd412085dd6e71f5f1072f|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Windows/ZrI2-mGi5f095bc735dd412085dd6e71f5f1072f.manifest)|
 
 # Mac Manifests
