@@ -222,8 +222,16 @@ If you have a manifest ID (even if you do not have the corresponding file) that 
 |++Fortnite+Release-17.00-CL-16555138-Android|2ycO6TG2sCeOJGMRC0iJiwpAKo5jEg|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/FortniteContentBuilds/Android/2ycO6TG2sCeOJGMRC0iJiwpAKo5jEg.manifest)<br>[ChunkDB](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/FortniteContentBuilds/Android/ChunkDBs/2ycO6TG2sCeOJGMRC0iJiwpAKo5jEg.ini)|
 |++Fortnite+Release-17.00-CL-16593740-Android|hIycEvy6h9-ibYvytk-kJ2NAR_rHtQ|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/FortniteContentBuilds/Android/hIycEvy6h9-ibYvytk-kJ2NAR_rHtQ.manifest)<br>[ChunkDB](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/FortniteContentBuilds/Android/ChunkDBs/hIycEvy6h9-ibYvytk-kJ2NAR_rHtQ.ini)|
 
+# IOS Manifests
+|Version|Manifest ID|Download|
+|--|--|--|
+|++Fortnite+Release-3.5-CL-3994867-IOS|LmoBtBsR7ba15c218bc6442493ca6d19f3d28855|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/IOS/LmoBtBsR7ba15c218bc6442493ca6d19f3d28855.manifest)|
+|++Fortnite+Release-5.20-CL-4261111-IOS|l_psYuFGZqi27bs4T0mamm0HSb3KCA|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/IOS/l_psYuFGZqi27bs4T0mamm0HSb3KCA.manifest)|
+
 # IOS Content Manifests
 |Version|Manifest ID|Download|
 |--|--|--|
+|++Fortnite+Release-7.40-CL-5011364-IOS|ZEwxxOqyzbYkj5MloUC2g6QY7uj-Qw|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/FortniteContentBuilds/IOS/ZEwxxOqyzbYkj5MloUC2g6QY7uj-Qw.manifest)<br>[ChunkDB](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/FortniteContentBuilds/IOS/ChunkDBs/ZEwxxOqyzbYkj5MloUC2g6QY7uj-Qw.ini)|
 |++Fortnite+Release-12.21-CL-12337779-IOS|n6lUS8dsbmuHxZWKi0O6x8dMaTMz7A|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/FortniteContentBuilds/IOS/n6lUS8dsbmuHxZWKi0O6x8dMaTMz7A.manifest)<br>[ChunkDB](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/FortniteContentBuilds/IOS/ChunkDBs/n6lUS8dsbmuHxZWKi0O6x8dMaTMz7A.ini)|
 |++Fortnite+Release-13.40-CL-14050091-CP14177627-IOS|CDCQnqOkOc4hNHrU9U-6y71sf91Dvw|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/FortniteContentBuilds/IOS/CDCQnqOkOc4hNHrU9U-6y71sf91Dvw.manifest)<br>[ChunkDB](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/FortniteContentBuilds/IOS/ChunkDBs/CDCQnqOkOc4hNHrU9U-6y71sf91Dvw.ini)|
+|++Fortnite+Release-13.40-CL-14050091-IOS|UmFpfaw6jRyAaJSfK0Sy9n2FeOgycw|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/FortniteContentBuilds/IOS/UmFpfaw6jRyAaJSfK0Sy9n2FeOgycw.manifest)<br>[ChunkDB](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/FortniteContentBuilds/IOS/ChunkDBs/UmFpfaw6jRyAaJSfK0Sy9n2FeOgycw.ini)|
