@@ -231,6 +231,10 @@ If you have a manifest ID (even if you do not have the corresponding file) that 
 # IOS Content Manifests
 |Version|Manifest ID|Download|
 |--|--|--|
+|++Fortnite+Release-4.4.x-CL-4132537-IOS|Unknown|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/FortniteContentBuilds/IOS/++Fortnite+Release-4.4.x-CL-4132537-IOS.manifest)|
+|++Fortnite+Release-4.4-CL-4117537-IOS|Unknown|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/FortniteContentBuilds/IOS/++Fortnite+Release-4.4-CL-4117537-IOS.manifest)|
+|++Fortnite+Release-4.4-CL-4126470-IOS|Unknown|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/FortniteContentBuilds/IOS/++Fortnite+Release-4.4-CL-4126470-IOS.manifest)|
+|++Fortnite+Release-6.10-CL-4477651-IOS|Unknown|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/FortniteContentBuilds/IOS/++Fortnite+Release-6.10-CL-4477651-IOS.manifest)|
 |++Fortnite+Release-7.40-CL-5011364-IOS|ZEwxxOqyzbYkj5MloUC2g6QY7uj-Qw|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/FortniteContentBuilds/IOS/ZEwxxOqyzbYkj5MloUC2g6QY7uj-Qw.manifest)<br>[ChunkDB](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/FortniteContentBuilds/IOS/ChunkDBs/ZEwxxOqyzbYkj5MloUC2g6QY7uj-Qw.ini)|
 |++Fortnite+Release-12.21-CL-12337779-IOS|n6lUS8dsbmuHxZWKi0O6x8dMaTMz7A|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/FortniteContentBuilds/IOS/n6lUS8dsbmuHxZWKi0O6x8dMaTMz7A.manifest)<br>[ChunkDB](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/FortniteContentBuilds/IOS/ChunkDBs/n6lUS8dsbmuHxZWKi0O6x8dMaTMz7A.ini)|
 |++Fortnite+Release-13.40-CL-14050091-CP14177627-IOS|CDCQnqOkOc4hNHrU9U-6y71sf91Dvw|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/FortniteContentBuilds/IOS/CDCQnqOkOc4hNHrU9U-6y71sf91Dvw.manifest)<br>[ChunkDB](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/FortniteContentBuilds/IOS/ChunkDBs/CDCQnqOkOc4hNHrU9U-6y71sf91Dvw.ini)|
