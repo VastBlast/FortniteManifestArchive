@@ -1,6 +1,6 @@
 # Fortnite Manifest Archive
 Largest archive of all known Fortnite manifests.
-Big thanks to [Polynite](https://github.com/polynite/fn-releases) and their contributors for some of the manifest IDs.
+Thanks to [Polynite](https://github.com/polynite/fn-releases) and their contributors for some of the manifest IDs.
 
 If you have a manifest ID (even if you do not have the corresponding file) that you which to add, please private message me on discord: **VastBlast#0001** or join the server: [discord.gg/w3ZnS74](https://discord.gg/w3ZnS74)
 # Windows Manifests
@@ -146,6 +146,8 @@ If you have a manifest ID (even if you do not have the corresponding file) that 
 |++Fortnite+Release-17.21-CL-16949556-Windows|hyS6T7m1z-V4PCkngEe4SvuqSEzrHQ|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Windows/hyS6T7m1z-V4PCkngEe4SvuqSEzrHQ.manifest)|
 |++Fortnite+Release-17.21-CL-16967001-Windows|FTvF_Dz-EmynfOkGiE-OMdvqTWKa2Q|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Windows/FTvF_Dz-EmynfOkGiE-OMdvqTWKa2Q.manifest)|
 |++Fortnite+Release-17.30-CL-17004569-Windows|iv2x3ijMayy7Mynn20ygKCjg5W1j_w|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Windows/iv2x3ijMayy7Mynn20ygKCjg5W1j_w.manifest)|
+|++Fortnite+Release-17.40-CL-17162853-Windows|fcwYvaMl7pSHfGB-fkmsiSRMqmHUtw|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Windows/fcwYvaMl7pSHfGB-fkmsiSRMqmHUtw.manifest)|
+|++Fortnite+Release-17.40-CL-17215766-Windows|rTR-Nb3LTmsCkWfeDEmXnKyETh1kow|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Windows/rTR-Nb3LTmsCkWfeDEmXnKyETh1kow.manifest)|
 |++Fortnite+Release-Cert-CL-3847564-Windows|ZrI2-mGi5f095bc735dd412085dd6e71f5f1072f|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Windows/ZrI2-mGi5f095bc735dd412085dd6e71f5f1072f.manifest)|
 
 # Mac Manifests
@@ -206,6 +208,7 @@ If you have a manifest ID (even if you do not have the corresponding file) that 
 |++Fortnite+Release-17.20-CL-16858885-Shipping-Android|-GryeJZRF273cfbtW0qQ9nWNvgLX7w|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Android/-GryeJZRF273cfbtW0qQ9nWNvgLX7w.manifest)<br>[APK](https://download.epicgames.com/Builds/Fortnite/Apk/-GryeJZRF273cfbtW0qQ9nWNvgLX7w.apk)|
 |++Fortnite+Release-17.21-CL-16967001-Shipping-Android|oisLIdbzAXglccFlTEeqDVWpj_5TZA|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Android/oisLIdbzAXglccFlTEeqDVWpj_5TZA.manifest)<br>[APK](https://download.epicgames.com/Builds/Fortnite/Apk/oisLIdbzAXglccFlTEeqDVWpj_5TZA.apk)|
 |++Fortnite+Release-17.30-CL-17004569-Shipping-Android|Y7D325vRCVGCIopmS0ydTLSCF2WTHQ|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Android/Y7D325vRCVGCIopmS0ydTLSCF2WTHQ.manifest)<br>[APK](https://download.epicgames.com/Builds/Fortnite/Apk/Y7D325vRCVGCIopmS0ydTLSCF2WTHQ.apk)|
+|++Fortnite+Release-17.40-CL-17152254-Shipping-Android|APOIWkxzvDCYVy0ZSEGkJt0EBxWILg|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Android/APOIWkxzvDCYVy0ZSEGkJt0EBxWILg.manifest)<br>[APK](https://download.epicgames.com/Builds/Fortnite/Apk/APOIWkxzvDCYVy0ZSEGkJt0EBxWILg.apk)|
 
 # Android Content Manifests
 |Version|Manifest ID|Download|
@@ -238,6 +241,7 @@ If you have a manifest ID (even if you do not have the corresponding file) that 
 |++Fortnite+Release-17.21-CL-16949556-Android|TKCgCdJT8kSjP6yK2U-di-wGsIDS3Q|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/FortniteContentBuilds/Android/TKCgCdJT8kSjP6yK2U-di-wGsIDS3Q.manifest)<br>[ChunkDB](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/FortniteContentBuilds/Android/ChunkDBs/TKCgCdJT8kSjP6yK2U-di-wGsIDS3Q.ini)|
 |++Fortnite+Release-17.21-CL-16967001-Android|VtCXxaI5JZyNfziA8EOG9pPRKeIjlQ|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/FortniteContentBuilds/Android/VtCXxaI5JZyNfziA8EOG9pPRKeIjlQ.manifest)<br>[ChunkDB](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/FortniteContentBuilds/Android/ChunkDBs/VtCXxaI5JZyNfziA8EOG9pPRKeIjlQ.ini)|
 |++Fortnite+Release-17.30-CL-17004569-Android|4vrOnNJLDRoEX2VQnkyFeVR2GOFxvQ|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/FortniteContentBuilds/Android/4vrOnNJLDRoEX2VQnkyFeVR2GOFxvQ.manifest)<br>[ChunkDB](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/FortniteContentBuilds/Android/ChunkDBs/4vrOnNJLDRoEX2VQnkyFeVR2GOFxvQ.ini)|
+|++Fortnite+Release-17.40-CL-17152254-Android|sL4wCrSqkmDQ9hQMSk2qnB0HVhCdow|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/FortniteContentBuilds/Android/sL4wCrSqkmDQ9hQMSk2qnB0HVhCdow.manifest)<br>[ChunkDB](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/FortniteContentBuilds/Android/ChunkDBs/sL4wCrSqkmDQ9hQMSk2qnB0HVhCdow.ini)|
 
 # IOS Manifests
 |Version|Manifest ID|Download|
