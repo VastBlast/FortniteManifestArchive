@@ -154,6 +154,7 @@ If you have a manifest ID (even if you do not have the corresponding file) that 
 |++Fortnite+Release-18.10-CL-17619277-Windows|5aOpBhE4Ru3-v2YFzUSGGuWGdEzyXQ|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Windows/5aOpBhE4Ru3-v2YFzUSGGuWGdEzyXQ.manifest)|
 |++Fortnite+Release-18.10-CL-17661844-Windows|hu7N3s__H28na2Oro06-draLSCt5UQ|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Windows/hu7N3s__H28na2Oro06-draLSCt5UQ.manifest)|
 |++Fortnite+Release-18.20-CL-17745267-Windows|NVDpDsRkObzIXej9LkeokHUwMj2B_A|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Windows/NVDpDsRkObzIXej9LkeokHUwMj2B_A.manifest)|
+|++Fortnite+Release-18.21-CL-17811397-Windows|OW-ufOH2A5Ofv8BdZkqkK7BdOh5_lg|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Windows/OW-ufOH2A5Ofv8BdZkqkK7BdOh5_lg.manifest)|
 |++Fortnite+Release-Cert-CL-3847564-Windows|ZrI2-mGi5f095bc735dd412085dd6e71f5f1072f|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Windows/ZrI2-mGi5f095bc735dd412085dd6e71f5f1072f.manifest)|
 
 # Mac Manifests
@@ -221,6 +222,7 @@ If you have a manifest ID (even if you do not have the corresponding file) that 
 |++Fortnite+Release-18.10-CL-17603767-Shipping-Android|ltnPeOEUQyUlfNsmpkGuuTWSK8-YFw|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Android/ltnPeOEUQyUlfNsmpkGuuTWSK8-YFw.manifest)<br>[APK](https://download.epicgames.com/Builds/Fortnite/Apk/ltnPeOEUQyUlfNsmpkGuuTWSK8-YFw.apk)|
 |++Fortnite+Release-18.10-CL-17662529-Shipping-Android|DflhVYYnmFjBQ7gFZEKOrCnhuTYd0g|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Android/DflhVYYnmFjBQ7gFZEKOrCnhuTYd0g.manifest)<br>[APK](https://download.epicgames.com/Builds/Fortnite/Apk/DflhVYYnmFjBQ7gFZEKOrCnhuTYd0g.apk)|
 |++Fortnite+Release-18.20-CL-17745267-Shipping-Android|Uucqz1gJyv4-3QCpM0e6rOnLkmVleQ|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Android/Uucqz1gJyv4-3QCpM0e6rOnLkmVleQ.manifest)<br>[APK](https://download.epicgames.com/Builds/Fortnite/Apk/Uucqz1gJyv4-3QCpM0e6rOnLkmVleQ.apk)|
+|++Fortnite+Release-18.21-CL-17811397-Shipping-Android|zq6QHTPxRiAXNGkW9kGqA8mOrsWFZw|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Android/zq6QHTPxRiAXNGkW9kGqA8mOrsWFZw.manifest)<br>[APK](https://download.epicgames.com/Builds/Fortnite/Apk/zq6QHTPxRiAXNGkW9kGqA8mOrsWFZw.apk)|
 
 # Android Content Manifests
 |Version|Manifest ID|Download|
@@ -262,6 +264,7 @@ If you have a manifest ID (even if you do not have the corresponding file) that 
 |++Fortnite+Release-18.10-CL-17603767-Android|o6yF5EXfS9n6xNR50E6uxQ1trx14pg|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/FortniteContentBuilds/Android/o6yF5EXfS9n6xNR50E6uxQ1trx14pg.manifest)<br>[ChunkDB](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/FortniteContentBuilds/Android/ChunkDBs/o6yF5EXfS9n6xNR50E6uxQ1trx14pg.ini)|
 |++Fortnite+Release-18.10-CL-17662529-Android|kV0yHY7MzygCzVqYuU-vUaIyDIOvTg|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/FortniteContentBuilds/Android/kV0yHY7MzygCzVqYuU-vUaIyDIOvTg.manifest)<br>[ChunkDB](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/FortniteContentBuilds/Android/ChunkDBs/kV0yHY7MzygCzVqYuU-vUaIyDIOvTg.ini)|
 |++Fortnite+Release-18.20-CL-17745267-Android|A2PRtiUwgseQCiVBtkiIqeKX8lJo8g|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/FortniteContentBuilds/Android/A2PRtiUwgseQCiVBtkiIqeKX8lJo8g.manifest)<br>[ChunkDB](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/FortniteContentBuilds/Android/ChunkDBs/A2PRtiUwgseQCiVBtkiIqeKX8lJo8g.ini)|
+|++Fortnite+Release-18.21-CL-17811397-Android|W8CBDvSR7YGkXkrpHUyvCDAOUAo0pQ|[Manifest](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/FortniteContentBuilds/Android/W8CBDvSR7YGkXkrpHUyvCDAOUAo0pQ.manifest)<br>[ChunkDB](https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/FortniteContentBuilds/Android/ChunkDBs/W8CBDvSR7YGkXkrpHUyvCDAOUAo0pQ.ini)|
 
 # IOS Manifests
 |Version|Manifest ID|Download|
